@@ -1,4 +1,4 @@
-This docuement outlines the Stata code used in the analysis for the following paper, which is published in PLoS Medicine (2025):
+This document outlines the Stata code used in the analysis for the following paper, which is published in PLoS Medicine (2025):
 Association between surgeon training grade and the risk of revision following total knee replacement: an analysis of National Joint Registry data
 
 Corresponding author: t.j.fowler@bristol.ac.uk
